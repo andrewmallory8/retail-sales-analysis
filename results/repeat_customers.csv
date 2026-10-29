@@ -1,0 +1,3 @@
+customer_type,customers,orders,purchase_revenue,customer_share_pct,identified_revenue_share_pct
+One purchase,1493,1493,616311.731,34.41678192715537,6.915986089284057
+Repeat,2845,17039,8295096.173,65.58321807284463,93.08401391071594
